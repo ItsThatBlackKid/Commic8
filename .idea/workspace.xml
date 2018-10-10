@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6ba28c1-0d6e-4ce8-8af4-44f1fb91dda4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Commic8$manage.coverage" NAME="manage Coverage Results" MODIFIED="1528527809447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="commic8@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="commic8@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="commic8@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="commic8: database" type="6d9b600a:PostgresImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="commic8@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="commic8: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="commic8@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="commic8: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="commic8@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="commic8: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profiles/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3611">
+              <caret line="168" column="66" selection-start-line="168" selection-start-column="66" selection-end-line="168" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profiles_post" pinned="false" current-in-tab="false">
+        <entry file="das://e1a31673-5d42-4ea3-ad38-a49965b84e38/database/commic8/schema/public/table/profiles_post">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>app_name</find>
+      <find>(e) =&gt;</find>
+      <find>proxy:</find>
+      <find>componentWillMount</find>
+      <find>userIni</find>
+      <find>setState({</find>
+      <find>sessionStorage</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/frontend/public/manifest.json" />
+        <option value="$PROJECT_DIR$/frontend/src/components/posts.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/messages.js" />
+        <option value="$PROJECT_DIR$/frontend/src/static/css/register.css" />
+        <option value="$PROJECT_DIR$/frontend/src/components/register.jsx" />
+        <option value="$PROJECT_DIR$/frontend/public/index.html" />
+        <option value="$PROJECT_DIR$/backend/api/urls.py" />
+        <option value="$PROJECT_DIR$/frontend/package.json" />
+        <option value="$PROJECT_DIR$/frontend/src/components/post.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/UserComment.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/comment-composer.jsx.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/custom-appbar.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/UserFormDialog.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/UserFormDialog.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/actions/types.js" />
+        <option value="$PROJECT_DIR$/frontend/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/frontend/src/config/Api.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/messages.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/store.js" />
+        <option value="$PROJECT_DIR$/frontend/src/index.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/profile.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/posts-comp.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/profile-card.js" />
+        <option value="$PROJECT_DIR$/frontend/src/utils/TimeUtils.js" />
+        <option value="$PROJECT_DIR$/frontend/src/static/css/profile.css" />
+        <option value="$PROJECT_DIR$/frontend/src/static/css/posts.css" />
+        <option value="$PROJECT_DIR$/frontend/src/components/profile.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/utils/AuthClient.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/post-writer.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/components/posts-comp.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/actions/index.js" />
+        <option value="$PROJECT_DIR$/backend/api/views.py" />
+        <option value="$PROJECT_DIR$/frontend/src/components/comment-composer.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/components/userComment.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/components/custom-appbar.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/App.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/posts.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/utils/ApiClient.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/user-form-dialog.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/utils/Auth.js" />
+        <option value="$PROJECT_DIR$/backend/profiles/models.py" />
+        <option value="$PROJECT_DIR$/backend/api/serializers.py" />
+        <option value="$PROJECT_DIR$/backend/Commic8/settings.py" />
+        <option value="$PROJECT_DIR$/frontend/src/static/css/App.css" />
+        <option value="$PROJECT_DIR$/frontend/src/components/profile-card.jsx" />
+        <option value="$PROJECT_DIR$/frontend/src/components/post.jsx" />
+        <option value="$PROJECT_DIR$/profiles/models.py" />
+        <option value="$PROJECT_DIR$/profiles/views.py" />
+        <option value="$PROJECT_DIR$/api/serializers.py" />
+        <option value="$PROJECT_DIR$/api/urls.py" />
+        <option value="$PROJECT_DIR$/api/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="27" />
+    <option name="width" value="960" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Commic8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Commic8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Commic8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Commic8" type="462c0819:PsiDirectoryNode" />
+              <item name="Commic8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Commic8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Commic8" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="url&#9;null&#9;null&#10;vi&#9;null&#9;null&#10;views&#9;null&#9;null&#10;ser&#9;null&#9;null&#10;post&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/post.jsx&#10;.css&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/static/css/App.css&#10;seri&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/backend/api/serializers.py&#10;mode&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/backend/profiles/models.py&#10;sett&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/backend/Commic8/settings.py&#10;api&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/config/Api.js&#10;setti&#9;null&#9;null&#10;app.cs&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/static/css/App.css&#10;view&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/backend/api/views.py&#10;vie&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/backend/api/views.py&#10;a&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/utils/ApiClient.js&#10;actions&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/actions&#10;Post&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/posts.jsx&#10;pos&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/post.jsx&#10;commen&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/userComment.jsx&#10;Time&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/utils/TimeUtils.js&#10;profile&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/profile-card.jsx&#10;post-wr&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/post-writer.jsx&#10;apic&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/utils/ApiClient.js&#10;seria&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/backend/api/serializers.py&#10;comm&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/comment-composer.jsx&#10;app&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/custom-appbar.jsx&#10;posts.cs&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/static/css/posts.css&#10;posts.c&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/static/css/posts.css&#10;comme&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/comment-composer.jsx&#10;post-com&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/posts-comp.jsx&#10;wr&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/post-writer.jsx&#10;posts&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/posts.jsx&#10;Inde&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/index.js&#10;user&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/user-form-dialog.jsx&#10;Api&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/utils/ApiClient.js&#10;store&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/store.js&#10;login&#9;null&#9;null&#10;auth&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/utils/Auth.js&#10;co&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/comment-composer.jsx&#10;model&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/backend/profiles/models.py&#10;mo&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/backend/profiles/models.py&#10;regi&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/static/css/register.css&#10;re&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/static/css/register.css&#10;inde&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/public/index.html&#10;index.ht&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/public/index.html&#10;mod&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/backend/profiles/models.py&#10;Rout&#9;null&#9;null&#10;Posts&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/posts.jsx&#10;mes&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/src/components/messages.js&#10;manifest&#9;FILE&#9;file:///home/sheku/PycharmProjects/Commic8/frontend/public/manifest.json" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Commic8/settings.py" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src" />
+      <recent name="$PROJECT_DIR$/frontend/src/static/css" />
+      <recent name="$PROJECT_DIR$/frontend/src/views" />
+      <recent name="$PROJECT_DIR$/frontend/src/static/img" />
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/accounts/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="testing2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="test2.user@testingusers.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="testing123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/accounts/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="testing1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="test.user@testingusers.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="testing123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="motto" />
+                <option name="value" value="This world sucks" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/accounts/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/accounts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Commic8">
+    <configuration name="Auth.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Auth.js" working-dir="$PROJECT_DIR$/frontend/src/utils" />
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Commic8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Commic8" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Commic8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Commic8.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://localhost:8000/api/docs" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <configuration name="Commic8 Front End" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.Commic8" />
+      <item itemvalue="npm.Commic8 Front End" />
+      <item itemvalue="Node.js.Auth.js" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Auth.js" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6ba28c1-0d6e-4ce8-8af4-44f1fb91dda4" name="Default" comment="" />
+      <created>1528512870720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528512870720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="27" width="960" height="988" extended-state="4" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900944" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2936321" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.27948114" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32223544" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49828768" weight="0.38864627" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.282516" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info id="Structure" order="1" sideWeight="0.5017123" side_tool="true" weight="0.3875546" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="manage.py@Commic8" order="7" weight="0.3773585" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="REST Client" order="8" weight="0.38679245" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.32900944" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="manage.py@Commic8" order="7" weight="0.3773585" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3278302" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49828768" visible="true" weight="0.36300638" />
+      <window_info id="Structure" order="1" sideWeight="0.5017123" side_tool="true" weight="0.3875546" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3278302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3231132" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/components/posts.jsx</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/components/posts.jsx</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/components/posts.jsx</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontend/src/App.test.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/post-writer.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/posts.js" />
+    <entry file="das://e1a31673-5d42-4ea3-ad38-a49965b84e38/database/commic8/schema/public/table/profiles_uniqueidentifiers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/README.md" />
+    <entry file="file://$PROJECT_DIR$/backend/api/urls.py" />
+    <entry file="file://$PROJECT_DIR$/frontend/package.json" />
+    <entry file="file://$PROJECT_DIR$/frontend/public/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/actions/types.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/reducers/index.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/register.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/messages.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/static/css/register.css" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/utils/TimeUtils.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/static/css/profile.css" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/static/css/posts.css" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/store.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/actions/index.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/post-writer.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/node_modules/@material-ui/core/es/CardHeader/CardHeader.d.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/userComment.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/posts-comp.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/posts.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/custom-appbar.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/comment-composer.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/utils/Auth.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/user-form-dialog.jsx" />
+    <entry file="file://$PROJECT_DIR$/backend/profiles/models.py" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/profile.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/profile-card.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/post.jsx" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/utils/ApiClient.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/config/Api.js" />
+    <entry file="file://$PROJECT_DIR$/backend/Commic8/settings.py" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/static/css/App.css" />
+    <entry file="file://$PROJECT_DIR$/backend/api/serializers.py" />
+    <entry file="file://$PROJECT_DIR$/backend/api/models.py" />
+    <entry file="file://$PROJECT_DIR$/backend/api/views.py" />
+    <entry file="file://$PROJECT_DIR$/profiles/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/Postitive/src/components/posts.jsx" />
+    <entry file="file://$PROJECT_DIR$/Commic8/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e1a31673-5d42-4ea3-ad38-a49965b84e38/database/commic8/schema/public/table/profiles_post">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/count_down/src/components/countdown.jsx.js" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profiles/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3611">
+          <caret line="168" column="66" selection-start-line="168" selection-start-column="66" selection-end-line="168" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

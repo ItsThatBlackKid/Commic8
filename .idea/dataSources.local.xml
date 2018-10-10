@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="commic8@localhost" uuid="e1a31673-5d42-4ea3-ad38-a49965b84e38">
+      <database-info product="PostgreSQL" version="10.4 (Ubuntu 10.4-0ubuntu0.18.04)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>sheku</user-name>
+      <introspection-schemas>commic8:public</introspection-schemas>
+    </data-source>
+    <data-source name="Django default" uuid="2e16da8a-8624-4a43-8905-02e2e53285ed">
+      <database-info product="PostgreSQL" version="10.4 (Ubuntu 10.4-0ubuntu0.18.04)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>sheku</user-name>
+      <introspection-schemas>commic8:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>
