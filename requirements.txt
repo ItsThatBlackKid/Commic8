@@ -7,7 +7,7 @@ django-filter==1.1.0
 django-location-field==2.0.3
 django-rest-framework-redocs==0.0.1
 django-rest-swagger==2.2.0
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 GDAL==2.2.3
 idna==2.7
 itypes==1.1.0
